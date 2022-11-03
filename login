@@ -31,7 +31,7 @@ align:center;
 margin-left:20px; 
 margin-top:0px; 
 text-align:center; 
-font-size:20px; 
+font-size:30px; 
 font-style:italic; 
 letter-spacing:1px; 
 border:1px solid lightgrey; 
